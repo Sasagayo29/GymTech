@@ -14,12 +14,12 @@
 ---
 
 ## 📸 Preview das Auras (Temas)
-<img width="135" height="859" alt="image" src="https://github.com/user-attachments/assets/ce83b103-3994-45bd-af12-fd452c97f0f8" />
-<img width="136" height="861" alt="image" src="https://github.com/user-attachments/assets/695d70f7-82f3-439c-8630-609d19242015" />
-<img width="135" height="858" alt="image" src="https://github.com/user-attachments/assets/d8ebc21b-f147-4063-a3d1-aa27df455673" />
-<img width="135" height="861" alt="image" src="https://github.com/user-attachments/assets/428c726c-0e74-48ad-bd0f-b366ec18c450" />
-<img width="137" height="858" alt="image" src="https://github.com/user-attachments/assets/30ca68b6-7f44-4e4a-aeb1-fe6fa295ae29" />
-<img width="137" height="862" alt="image" src="https://github.com/user-attachments/assets/b633bbe5-acf9-4880-8178-3d1fc5618c1f" />
+<img width="130" height="859" alt="image" src="https://github.com/user-attachments/assets/ce83b103-3994-45bd-af12-fd452c97f0f8" />
+<img width="131" height="861" alt="image" src="https://github.com/user-attachments/assets/695d70f7-82f3-439c-8630-609d19242015" />
+<img width="130" height="858" alt="image" src="https://github.com/user-attachments/assets/d8ebc21b-f147-4063-a3d1-aa27df455673" />
+<img width="130" height="861" alt="image" src="https://github.com/user-attachments/assets/428c726c-0e74-48ad-bd0f-b366ec18c450" />
+<img width="132" height="858" alt="image" src="https://github.com/user-attachments/assets/30ca68b6-7f44-4e4a-aeb1-fe6fa295ae29" />
+<img width="132" height="862" alt="image" src="https://github.com/user-attachments/assets/b633bbe5-acf9-4880-8178-3d1fc5618c1f" />
 
 
 
