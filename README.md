@@ -43,7 +43,7 @@ Diferente de apps comuns, o GymTech roda 100% no navegador (Client-side) utiliza
 
 ---
 
-## 🚀 O Que Há de Novo na v9.0?
+## 🔄️ O Que Há de Novo na v9.0?
 
 A atualização **Titanium Ecosystem** transformou o app em um Hub de Performance completo:
 
